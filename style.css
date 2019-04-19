@@ -1,0 +1,15 @@
+body {
+  background-color: #111;
+}
+
+/* START: Instagram specific styles */
+body nav,
+body main{
+  filter: invert(100%);
+}
+
+main img{
+	filter: invert(100%);
+}
+/* END: Instagram specific styles */
+
